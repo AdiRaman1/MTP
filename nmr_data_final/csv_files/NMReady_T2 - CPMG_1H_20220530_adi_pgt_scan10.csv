@@ -1,0 +1,37 @@
+## DataType = DataTable
+## Name = 1H-T2 - CPMG1 Results
+## Timestamp = 2022-05-30 00:48:15
+## X Units = ms
+## Entry 0 FitFunction = Exponential
+## Entry 0 Information = T2 time: 0.319158 s
+## Entry 0 Label = FD Max 
+## Entry 0 Name = FD Max
+## Entry 0 POI 0 = 0.319158, 0.120528, T2
+## Entry 1 FitFunction = Exponential
+## Entry 1 Information = T2 time: 0.332858 s
+## Entry 1 Label = TD Max
+## Entry 1 Name = TD Max
+## Entry 1 POI 0 = 0.332858, 34.8706, T2
+## Display cursorformat = x: %0.2f s, y: %0.2f
+## Display expandedylower = 0
+## Display expandedyupper = 0
+## Display legend = upper left
+## Display nextentrybutton = 1
+## Display results2dname = T2 - CPMG Raw Data
+## Display xaxisticklabelformat = %0.1f s
+## Display xmaxboundoverride = 11
+## Display xminboundoverride = 0
+## Data =
+##
+x, FD Max, Exponential fit, TD Max, Exponential fit
+0, 0.274789478642, 1.27479671059, 90.5480684131, 91.5478430713
+1, 0.0416985895699, 0.318372729619, 6.82896405554, 90.5974173446
+2, 0.0280827228561, 0.276695580024, 2.6241454645, 90.5503006799
+3, 0.0232809363754, 0.27487945576, 3.87486759561, 90.5479649055
+4, 0.0248121816271, 0.274800316294, 4.35304045969, 90.5478491112
+5, 0.0210669904293, 0.274796867711, 1.04223637927, 90.5478433708
+6, 0.065822761427, 0.274796717436, 3.34962304293, 90.5478430862
+7, 0.0200084548201, 0.274796710887, 1.5956861807, 90.5478430721
+8, 0.026642799632, 0.274796710602, 1.24620021005, 90.5478430714
+9, 0.0365964464891, 0.27479671059, 3.06216991674, 90.5478430713
+10, 0.0305834656846, 0.274796710589, 1.2938910757, 90.5478430713
